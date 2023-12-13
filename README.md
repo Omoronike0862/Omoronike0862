@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omoronike0862
-- 👀 I’m interested in CS, Web and Fashion Design
-- 🌱 I’m currently learning CS concept
+- 👀 I’m interested in Data Science, Web and Fashion Design
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [email](segilolaissa@gmail.com)
 
